@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 I'm Srikar,student at IIIT gwalior ,intrested in developing scalable backned and frontend projects
 
-🔭 I’m currently working on fullstack Development .
+🔭 I’m currently working on fullstack Development 
 
-🌱 I’m currently learning  ML/AI
-
-👯 I’m looking to collaborate with ML/AL,backend devs 
+🌱 I’m currently learning  ML/AI,dsa
 
 ⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx
 
-💬 Ping me about CP, fullstack, development
+📫 How to reach me vollalasaisrikar@gmail.com
+
+⚡ Fun fact Beyond code, I am into literature, philosophy and movies
