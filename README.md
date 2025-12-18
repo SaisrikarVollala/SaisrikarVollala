@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-    I'm Srikar ,student @ IIIT gwalior 
+I'm Srikar,student at IIIT gwalior ,intrested in development and problem solving
+
 🔭 I’m currently working on fullstack Development .
+
 🌱 I’m currently learning  ML/AI
+
 👯 I’m looking to collaborate with ML/AL,backend devs 
+
 ⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx
+
 💬 Ping me about CP, fullstack, development
