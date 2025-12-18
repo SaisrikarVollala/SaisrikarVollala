@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Srikar,student at IIIT gwalior ,intrested in development and problem solving
+I'm Srikar,student at IIIT gwalior ,intrested in developing scalable backned and frontend projects
 
 🔭 I’m currently working on fullstack Development .
 
