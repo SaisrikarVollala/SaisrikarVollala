@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+    I'm Srikar ,student @ IIIT gwalior 
+🔭 I’m currently working on fullstack Development .
+🌱 I’m currently learning  ML/AI
+👯 I’m looking to collaborate with ML/AL,backend devs 
+⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx
+💬 Ping me about CP, fullstack, development
