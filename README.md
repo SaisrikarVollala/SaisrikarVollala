@@ -22,7 +22,7 @@ I'm Srikar,student at IIIT gwalior ,intrested in developing scalable backned and
 
 🌱 I’m currently learning  ML/AI,dsa
 
-⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx
+⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx,.go
 
 📫 How to reach me vollalasaisrikar@gmail.com
 
