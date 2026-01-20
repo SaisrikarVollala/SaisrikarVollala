@@ -22,8 +22,8 @@ I'm Srikar,student at IIIT gwalior ,intrested in developing scalable backned and
 
 🌱 I’m currently learning  ML/AI,dsa
 
-⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx,.go
+⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx,.go ,.py
 
 📫 How to reach me vollalasaisrikar@gmail.com
 
-⚡ Fun fact Beyond code, I am into literature, philosophy and movies
+⚡ Fun fact Beyond code, I am into electronics ,philosophy and movies
