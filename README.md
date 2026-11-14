@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Srikar,student at IIIT gwalior ,intrested in developing scalable backned and frontend projects
+I'm srikar vollala , student at Indian Institute of Information Technology Gwalior ,intrested in developing scalable backned and frontend projects and Integrating LLM into the production systems
 
-🔭 I’m currently working on fullstack Development 
+🌱 I’m currently learning  Agentic AI and system desing 
 
-🌱 I’m currently learning  ML/AI,dsa
-
-⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx,.go ,.py
+⚙️ I use daily: .js, .cpp, .jsx, .ts,.tsx,.py
 
 📫 How to reach me vollalasaisrikar@gmail.com
 
